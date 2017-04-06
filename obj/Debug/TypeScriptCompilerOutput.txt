@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\TestQuicStart06\TestQuicStart06\src\app\app.component.js
+c:\users\user\documents\visual studio 2015\Projects\TestQuicStart06\TestQuicStart06\src\app\app.component.js.map
+c:\users\user\documents\visual studio 2015\Projects\TestQuicStart06\TestQuicStart06\src\app\app.component.spec.js
+c:\users\user\documents\visual studio 2015\Projects\TestQuicStart06\TestQuicStart06\src\app\app.component.spec.js.map
+c:\users\user\documents\visual studio 2015\Projects\TestQuicStart06\TestQuicStart06\src\app\app.module.js
+c:\users\user\documents\visual studio 2015\Projects\TestQuicStart06\TestQuicStart06\src\app\app.module.js.map
+c:\users\user\documents\visual studio 2015\Projects\TestQuicStart06\TestQuicStart06\src\main.js
+c:\users\user\documents\visual studio 2015\Projects\TestQuicStart06\TestQuicStart06\src\main.js.map
